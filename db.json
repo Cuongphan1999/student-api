@@ -1,0 +1,92 @@
+{
+    "student":[
+        {
+          "fullname": "Frances Koch",
+          "gender": false,
+          "email": "Shawn_Hartmann@gmail.com",
+          "avataUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/859.jpg",
+          "dob": "1975-09-07T21:58:44.604Z",
+          "mobile": "566-205-4765",
+          "departmentId": {
+            "name": "CNTT",
+            "id": "1"
+          },
+          "id": "1"
+        },
+        {
+          "fullname": "George Price",
+          "gender": false,
+          "email": "Fabian.Metz81@gmail.com",
+          "avataUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/134.jpg",
+          "dob": "2001-05-20T21:34:25.655Z",
+          "mobile": "539-535-6323",
+          "departmentId": {
+            "name": "IT",
+            "id": "2"
+          },
+          "id": "2"
+        },
+        {
+          "fullname": "Derrick Hirthe",
+          "gender": false,
+          "email": "Anibal.Hartmann19@hotmail.com",
+          "avataUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/845.jpg",
+          "dob": "1969-05-06T15:58:07.695Z",
+          "mobile": "624-771-9999",
+          "departmentId": {
+            "name": "DIEN TU",
+            "id": "3"
+          },
+          "id": "3"
+        },
+        {
+          "fullname": "Dana Kunde II",
+          "gender": false,
+          "email": "Webster.Roob45@hotmail.com",
+          "avataUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/29.jpg",
+          "dob": "1988-03-27T20:17:21.439Z",
+          "mobile": "981-902-3836",
+          "departmentId": {
+            "name": "KE TOAN",
+            "id": "4"
+          },
+          "id": "4"
+        },
+        {
+          "fullname": "Eileen Beer",
+          "gender": false,
+          "email": "Beatrice_Schamberger@yahoo.com",
+          "avataUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/554.jpg",
+          "dob": "1999-12-10T17:18:41.267Z",
+          "mobile": "810-304-0504",
+          "departmentId": {
+            "name": "LUAT",
+            "id": "5"
+          },
+          "id": "5"
+        }
+      ],
+
+    "department":[
+        {
+          "name": "CNTT",
+          "id": "1"
+        },
+        {
+          "name": "IT",
+          "id": "2"
+        },
+        {
+          "name": "DIEN TU",
+          "id": "3"
+        },
+        {
+          "name": "KE TOAN",
+          "id": "4"
+        },
+        {
+          "name": "LUAT",
+          "id": "5"
+        }
+      ]
+}
